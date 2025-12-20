@@ -1,0 +1,64 @@
+
+
+h2{
+    
+    text-decoration: underline dotted; /* underline(dotted , dashed) the h2 text or  */
+    font-size: 20px;
+    font-weight:900;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style: italic;
+    font-variant: small-caps;
+    color: rgb(255, 0, 255)
+
+}
+
+.classs{
+    color: rgb(0, 128, 255);
+}
+
+
+#sss{
+    color: rgb(255, 0, 128);
+}
+
+a:active{
+    color: black
+
+
+}
+a:hover{
+
+
+}
+
+
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+
+table{
+    color: blue;
+
+}
+
+.classs{
+
+    background-color: aqua;
+
+}
+
+
+h1{
+
+    font: optional;
+    font-style: italic;
+    border-color: brown;
+    border-width: 8px;
+}
